@@ -2,7 +2,7 @@ function hola(nombre, miCallback) {
   setTimeout(function () {
     console.log("Hola " + nombre);
     miCallback(nombre);
-  }, 1000);
+  }, 1500);
 }
 
 function adios(nombre, otroCallback) {
