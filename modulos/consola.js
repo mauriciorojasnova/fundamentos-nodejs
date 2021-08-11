@@ -38,3 +38,10 @@ function function2() {
 
 console.log('empezamos');
 function1();
+
+console.count('veces');
+console.count('veces');
+console.countReset('veces');
+console.count('veces');
+console.count('veces');
+

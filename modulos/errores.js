@@ -6,6 +6,8 @@ function seRompe() {
     return 3 + z;
 }
 
+//Cuando se usa una función asíncrona, el try/catch va dentro de esta.
+
 function seRompeAsincrona(cb) {
     setTimeout(function () {
         try {
