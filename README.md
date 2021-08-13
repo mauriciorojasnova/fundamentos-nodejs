@@ -4,7 +4,7 @@ Node.js es un entorno de ejecución empleado para correr JavaScript fuera del na
 
 Sus principales características son:
 - Asíncrono.
-- Programado a evenetos.
+- Programado a eventos.
 - Rápido.
 - Escalable.
 - Open Source
